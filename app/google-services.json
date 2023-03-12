@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522882293143",
+    "firebase_url": "https://note-4312c-default-rtdb.firebaseio.com",
+    "project_id": "note-4312c",
+    "storage_bucket": "note-4312c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522882293143:android:b9eb6b7761a394df7778d2",
+        "android_client_info": {
+          "package_name": "com.example.noteassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522882293143-5al34piq1u6kqkmhdkbh4su72inveb7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTFZJOy5nmsPxpJxEw3UI9N6KqOv3NcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522882293143-5al34piq1u6kqkmhdkbh4su72inveb7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
